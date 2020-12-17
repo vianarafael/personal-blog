@@ -6,7 +6,11 @@
         class="button is-primary"
         @click="$eventBus.$emit('modal-triggered', 'newsletter-modal')"
       >
+<<<<<<< HEAD
         Do I need this button?
+=======
+        Subscribe To Newsletter
+>>>>>>> c5578d5474046d0dbce0a308bed38aa0ce8b4728
       </button>
     </site-hero>
     <main-section theme="one-column">
