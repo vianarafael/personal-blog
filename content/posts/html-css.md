@@ -21,7 +21,7 @@ But, don’t limit yourself to the examples given - for example, if find a websi
 
 You don’t need to read the whole book - read it up to Chapter 18, 30 minutes up to an hour a day, after you spent time actually building.
 
-## The Basics of CS 
+## 1 Course 
 
 You also need the basics of computer science:
 Watch one of these video from
@@ -29,7 +29,7 @@ Watch one of these video from
 
 
 ## And that is it:
-build projects every day - spend ⅔ of your time actually writing code, if you don’t know how to do something - google it, and repeat until you have a website.
+Build projects every day - spend ⅔ of your time actually writing code, if you don’t know how to do something - google it, and repeat until you have a website.
 Read the book every day with the extra ⅓ of your available time, and what CS50 once a week.
 
  
