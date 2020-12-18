@@ -8,12 +8,12 @@ date: 2020-12-18T04:55:56.800Z
 featureImage: /uploads/html-css.jpg
 ---
 ## 10. Projects
-When Gordon Ramsay was learning how to cook he worked as a line cook on a restaurant 5 days a week, and when to culinary school on the 7th.
+When Gordon Ramsay was learning how to cook he worked as a line cook on a restaurant 5 days a week, and went to culinary school on the 7th.
 We will use a similar approach.
 The majority of your time should be spent on your projects. 
 This is a great resource for your first 10 project ideas:
 [Top 10 Projects for Practice](https://www.geeksforgeeks.org/top-10-projects-for-beginners-to-practice-html-and-css-skills/)
-Don’t limit yourself to the examples given - for example, if you want to build a restaurant website go to a website you like and copy it. 
+Don’t limit yourself to the examples given - for example, if you want to build a restaurant go to a page you like and copy it. 
 ## 1 Book
 
 ([Learning Web Design: A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics](https://www.amazon.com/Learning-Web-Design-Beginners-JavaScript/dp/1491960205/ref=as_li_ss_tl?dchild=1&keywords=jennifer+robbins+html&qid=1592572936&s=books&sr=1-1&linkCode=sl1&tag=csstricks-20&linkId=6010469f2458957ccbe405b0a389e373&language=en_US))
