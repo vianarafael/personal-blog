@@ -1,5 +1,5 @@
 ---
-title: On Learning Web Development - Part 1
+title: Learning Web Development - Part 1
 subtitle: Learn HTML and CSS with 10 projects, 1 book, and 1 course 
 category:
   - Learn Web Develpment
