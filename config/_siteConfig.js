@@ -22,22 +22,17 @@ export default {
       name: 'About',
       link: '/about'
     },
+    // {
+    //   name: 'Contact',
+    //   link: '/contact'
+    // },
+    // {
+    //   name: 'Categories',
+    //   link: '/categories'
+    // },
     {
-      name: 'Contact',
-      link: '/contact'
-    },
-    {
-      name: 'Categories',
-      link: '/categories'
-    },
-    {
-      name: 'Github Repo',
-      link: 'https://github.com/danielkellyio/awake-template',
-      target: '_blank'
-    },
-    {
-      name: 'Awake+ Premium',
-      link: 'https://awake-premium-lp.netlify.com/',
+      name: 'Github',
+      link: 'https://github.com/vianarafael',
       target: '_blank'
     }
   ],
