@@ -17,7 +17,7 @@ But, don’t limit yourself to the examples given - for example, if find a websi
 
 ## 1 Book
 
-([Learning Web Design: A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics](https://www.amazon.com/Learning-Web-Design-Beginners-JavaScript/dp/1491960205/ref=as_li_ss_tl?dchild=1&keywords=jennifer+robbins+html&qid=1592572936&s=books&sr=1-1&linkCode=sl1&tag=csstricks-20&linkId=6010469f2458957ccbe405b0a389e373&language=en_US))
+[Learning Web Design: A Beginner’s Guide to HTML, CSS, JavaScript, and Web Graphics](https://www.amazon.com/Learning-Web-Design-Beginners-JavaScript/dp/1491960205/ref=as_li_ss_tl?dchild=1&keywords=jennifer+robbins+html&qid=1592572936&s=books&sr=1-1&linkCode=sl1&tag=csstricks-20&linkId=6010469f2458957ccbe405b0a389e373&language=en_US)
 
 You don’t need to read the whole book - read it up to Chapter 18, 30 minutes up to an hour a day, after you spent time actually building.
 
