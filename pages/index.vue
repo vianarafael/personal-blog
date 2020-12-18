@@ -18,14 +18,14 @@
         Nothing here
       </template>
     </main-section>
-    <news-letter-form-modal />
+    <!-- <news-letter-form-modal /> -->
   </div>
 </template>
 
 <script>
 import { mapState } from 'vuex'
 import { setPageData } from '../helper'
-import NewsLetterFormModal from '~/components/NewsLetterFormModal'
+// import NewsLetterFormModal from '~/components/NewsLetterFormModal'
 
 export default {
   // @click="$eventBus.$emit('modal-triggered', 'newsletter-modal')"
@@ -35,9 +35,9 @@ export default {
       title: `Home | ${this.$siteConfig.siteName}`
     }
   },
-  components: {
-    NewsLetterFormModal
-  },
+  // components: {
+  //   NewsLetterFormModal
+  // },
   computed: {
     ...mapState(['title', 'subtitle', 'featureImage'])
   },
