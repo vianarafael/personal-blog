@@ -1,6 +1,6 @@
 ---
-title: Learning Web Development - Part 1
-subtitle: Learn HTML and CSS with 10 projects, 1 book, and 1 course 
+title: Learn HTML and CSS
+subtitle: Learn HTML and CSS with 10 projects - 1 book - 1 course 
 category:
   - Learn Web Develpment
 author: Rafael Viana
