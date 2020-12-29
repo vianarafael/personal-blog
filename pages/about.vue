@@ -45,6 +45,7 @@
     </main-section>
   </div>
 </template>
+
 <script>
 export default {
   head() {
@@ -54,3 +55,14 @@ export default {
   }
 }
 </script>
+
+<style>
+.content {
+  height: 100vh;
+}
+
+.content * {
+  margin-bottom: 2rem;
+  line-height: 1.8rem;
+}
+</style>
